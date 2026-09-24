@@ -1,0 +1,5 @@
+# Empêche `tauri dev` de redémarrer toute l'app à chaque fois que
+# Stanislas écrit un fichier généré (vidéo, image, réponse archivée...)
+# dans ces dossiers. Sans ça, Tauri confond ces fichiers avec du code
+# source à recompiler.
+Archives/
