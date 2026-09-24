@@ -1,7 +1,7 @@
 
 # English
 
-## STANISLAS — The M.A.I.cintosh
+## STANISLAS — The m.A.I.cintosh
 
 ### What if AI had been imagined in 1984?
 
@@ -108,8 +108,9 @@ STANISLAS is publicly available on GitHub so that anyone can explore the project
 **Repository:** github.com/Alcaviggia/Stanislas
 
 ------------------------------------
+# Français
 
-# STANISLAS — The M.A.I.cintosh
+# STANISLAS — The m.A.I.cintosh
 
 ### Et si l’IA avait été imaginée en 1984 ?
 
