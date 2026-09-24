@@ -1,3 +1,4 @@
+![STANISLAS](interface-stanislas.png)
 
 # English
 
